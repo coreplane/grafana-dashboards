@@ -2592,7 +2592,7 @@
       "30d"
     ]
   },
-  "timezone": "browser",
+  "timezone": "utc",
   "title": "CorePlane Kubernetes cluster monitoring",
   "uid": "sR9tFTtmk",
   "version": 4
